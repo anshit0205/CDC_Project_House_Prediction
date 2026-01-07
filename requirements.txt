@@ -1,0 +1,29 @@
+# Core dependencies
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Deep Learning
+torch
+torchvision
+
+# Image Processing
+Pillow
+opencv-python
+scikit-image
+scipy
+
+# Geospatial
+osmnx
+
+# Utilities
+tqdm
+requests
+
+# Web Interface
+streamlit
